@@ -1,5 +1,5 @@
 # angel-curse
-what angel-curse?
+What's angel-course?<br>
 It is a raider organization created with respect to sussy raider, ctkp raider and illusion raider.<br>
 The developer, zearadiscord, is also involved in the development of ctkp raider and has normal knowledge of Python.<br>
 He is a member of the development department of the Allied Forces of Vandals.<br>
